@@ -2,11 +2,11 @@
 
 This dashboard provides a comprehensive overview of Blinkit's sales performance, customer behavior, and outlet trends.
 
-🔑 Key Metrics
-💰 Total Sales: ~1.20M
-📦 Total Items Sold: ~8.5K
-⭐ Average Rating: ~3.9
-📊 Average Sales per Item: ~140
+      🔑 Key Metrics
+      💰 Total Sales: ~1.20M
+      📦 Total Items Sold: ~8.5K
+      ⭐ Average Rating: ~3.9
+      📊 Average Sales per Item: ~140
 
 
 🛍️ Sales Insights
